@@ -1,6 +1,6 @@
 {
     "name": "bearns/think-redis",
-    "type": "library",
+    "type": "think-extend",
     "description": "thinkphp redis",
     "license": "MIT",
     "authors": [
