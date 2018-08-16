@@ -5,7 +5,7 @@
 ## Installing
 
 ```shell
-$ composer require bearns/redis -vvv
+$ composer require bearns/think-redis -vvv
 ```
 
 ## Usage
